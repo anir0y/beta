@@ -63,9 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I break security for living!</h3>;
   const four = (
     <p>
-      I'm a Hyderabad-based CyberSecurity Consultant who specializes in Delivering Training on
-      Cybersecurity and Cloud Computing. also developed contents & labs for Clients. works as Full
-      time CEO of ZeroBit Solutions LLP
+      I'm a Hyderabad-based CyberSecurity Consultant, The CEO of ZeroBit solutions LLP, 
+      specialized in delivering Cybersecurity and Cloud Computing training. As a part of the training, 
+      we also develop content as well as  labs for Clients.
     </p>
   );
   const five = (
