@@ -1,6 +1,6 @@
 ---
 title: Certified Ethical Hacker
-description: docker-compose version discrepancies
+description: Be a Hacker! 
 date: '2020-06-15'
 draft: false
 slug: '/class/ceh'
