@@ -17,10 +17,6 @@ Certified Ethical Hacker CEH v11 will teach you the latest commercial-grade hack
 
 > You can [Register](https://bit.ly/anir0y-v11form) here  
 
-![CEHv11 Content-1](https://anir0y.in/assets/images/cehv11-1280x720.jpg)
-
-![CEHv11 Content-2](https://anir0y.in/assets/images/break-the-code-3.webp)
-
 <center>
 
 ### Content Download From [here](https://anir0y.in/pdf/CEH-Exam-Blueprint-v4.0.pdf)

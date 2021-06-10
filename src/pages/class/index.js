@@ -154,7 +154,7 @@ const PensievePage = ({ location, data }) => {
           <h1 className="big-heading">Classroom</h1>
           <p className="subtitle">
             <a href="#">
-            More Training Module will be added soon
+             Training Modules will be added soon
             </a>
           </p>
         </header>
