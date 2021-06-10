@@ -144,15 +144,15 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Animesh Roy and I enjoy creating things that live on the internet.
-              My interest in Cyber Security started back in 2010 when I decided to try playing with
-              Computer security. from there I never looked back.
+              My interest in Cybersecurity started back in 2010 when I decided to try playing with
+              Computer security. I never looked back from there.
             </p>
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
               <a href="https://wipro.com/">Wipro</a>,{' '}
               <a href="https://zerobitsolutions.in/">a start-up</a>,{' '}
-              <a href="https://www.cyberchasse.com/">a MNC corporation</a>, and{' '}
+              <a href="https://www.cyberchasse.com/">an MNC corporation</a>, and{' '}
               <a href="https://whizhack.com/">a instructor-led training studio</a>. My main focus
               these days is building accessible, intractive products and digital experiences at{' '}
               <a href="https://zerobitsolutions.in/">ZeroBit</a> for a variety of clients.

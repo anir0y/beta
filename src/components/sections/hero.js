@@ -63,13 +63,13 @@ const Hero = () => {
   const three = <h3 className="big-heading">I break security for a living!</h3>;
   const four = (
     <p>
-      I'm a Hyderabad-based CyberSecurity Consultant, The CEO of ZeroBit solutions LLP, 
+      I'm a Hyderabad-based Cybersecurity Consultant, the CEO of ZeroBit solutions LLP, 
       specialized in delivering Cybersecurity and Cloud Computing training. As a part of the training, 
       we also develop content as well as  labs for Clients.
     </p>
   );
   const five = (
-    <a href={`mailto:${email}`} className="email-link">
+    <a href="#contact" className="email-link">
       Get In Touch
     </a>
   );

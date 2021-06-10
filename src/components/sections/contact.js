@@ -67,6 +67,13 @@ const Contact = () => {
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>
+      <br></br>
+      <a className="email-link" target="_blank" href="https://keybase.io/anir0y/pgp_keys.asc">
+        PGP Key
+      </a> <br></br>
+      <a className="email-link" target="_blank" href="https://twitter.com/anir0y">
+        #tweet
+      </a>
     </StyledContactSection>
   );
 };

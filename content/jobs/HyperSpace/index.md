@@ -1,7 +1,7 @@
 ---
 date: '2018-03-01'
 title: 'Consultant'
-company: 'HyperSPaace'
+company: 'HyperSPace'
 location: 'HYD, IN'
 range: 'MAR 2018 - Present'
 url: 'https://www.hspaceit.com/'

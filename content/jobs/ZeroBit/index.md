@@ -7,6 +7,6 @@ range: 'JUL 2019 - Present'
 url: 'https://www.zerobitsolutions.in/'
 ---
 
-- CEO {Cheif Education Officier}
+- CEO (Chief Education Officer)
 - Handling Projects
 - Making executive level decisions
